@@ -5,10 +5,11 @@
 ## 📁 文件结构
 
 ```
-xinyi-jane-WSL.github.io/
+hacker-style-resume/
 ├── index.html      # 主页面文件，包含终端界面结构
 ├── style.css       # 样式文件，实现黑客风格主题
 ├── script.js       # JavaScript 逻辑，实现打字机效果和简历数据
+├── .nojekyll       # 禁用 Jekyll 处理
 └── README.md       # 项目说明文档
 ```
 
@@ -65,7 +66,9 @@ xinyi-jane-WSL.github.io/
 1. 将代码推送到 GitHub 仓库
 2. 在仓库设置中启用 GitHub Pages
 3. 选择 `main` 分支作为源
-4. 访问 `https://yourusername.github.io/xinyi-jane-WSL.github.io/`
+4. 访问 `https://xinyi-jane.github.io/hacker-style-resume/`
+
+**注意**: 如果仓库尚未重命名，访问地址为 `https://xinyi-jane.github.io/xinyi-jane-WSL.github.io/`
 
 ## 🎨 自定义内容
 
@@ -93,6 +96,8 @@ MIT License
 
 ## 🔗 相关链接
 
+- **在线访问**: [https://xinyi-jane.github.io/hacker-style-resume/](https://xinyi-jane.github.io/hacker-style-resume/)
+- **主仓库**: [https://github.com/xinyi-jane/xinyi-jane.github.io](https://github.com/xinyi-jane/xinyi-jane.github.io)
 - [GitHub Pages 文档](https://docs.github.com/en/pages)
 - [Vanilla JavaScript 最佳实践](https://vanillajstoolkit.com/)
 
